@@ -1,0 +1,7 @@
+If you've never done it:
+make setup
+Then:
+make
+
+When you have a profile, run prof2raw program profile. It creates profile.raw.
+Give profile.raw to proftool

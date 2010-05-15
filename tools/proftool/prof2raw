@@ -1,0 +1,3 @@
+#!/bin/bash
+exec $HPHP_HOME/tools/proftool/pprof --raw $1 $2 > $2.raw
+
